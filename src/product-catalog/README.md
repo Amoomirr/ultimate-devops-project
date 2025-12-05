@@ -1,6 +1,6 @@
 # Product Catalog Service
 
-When this service will run the output should be similar to the following
+When this service is run the output should be similar to the following
 
 ```
 INFO[0000] Loaded 10 products                           
